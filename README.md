@@ -1,2 +1,2 @@
 # Ujjval-Github
-Learning  github commands.
+Learning  git and github.
